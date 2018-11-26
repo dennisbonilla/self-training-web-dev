@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>27</x>
+      <y>0</y>
+      <w>909</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>WEB DEVELOPMENT | Technologies Compilation.
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>27</x>
+      <y>36</y>
+      <w>306</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>Front-End Development | Technologies	
+bg=gray</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>342</x>
+      <y>36</y>
+      <w>306</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>Back-End Development | Technologies.
+bg=gray</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>54</x>
+      <y>72</y>
+      <w>279</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>Base Languages.
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>27</x>
+      <y>54</y>
+      <w>45</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>30.0;30.0;10.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>108</y>
+      <w>234</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>HTML (Hiper Text Markup Language)
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>72</x>
+      <y>90</y>
+      <w>45</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>30.0;30.0;10.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>252</y>
+      <w>234</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>CSS ( Cascade Style Sheet )
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>63</x>
+      <y>90</y>
+      <w>54</w>
+      <h>189</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>40.0;190.0;10.0;190.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>441</y>
+      <w>234</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>JavaScript
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>54</x>
+      <y>90</y>
+      <w>63</w>
+      <h>378</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>50.0;400.0;10.0;400.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>369</x>
+      <y>72</y>
+      <w>279</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>Base Languages.
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>342</x>
+      <y>54</y>
+      <w>45</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>30.0;30.0;10.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>108</y>
+      <w>234</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>PHP (Hiper Text Preprocesor)
+bg=red
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>387</x>
+      <y>90</y>
+      <w>45</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>30.0;30.0;10.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>270</y>
+      <w>234</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>JSP ( Java Server Pages )
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>450</y>
+      <w>234</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>ASP.NET ( Active Server Pages )
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>378</x>
+      <y>90</y>
+      <w>54</w>
+      <h>207</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>40.0;210.0;10.0;210.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>369</x>
+      <y>90</y>
+      <w>63</w>
+      <h>387</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>50.0;410.0;10.0;410.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>657</x>
+      <y>36</y>
+      <w>279</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>Tools
+bg=gray
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>657</x>
+      <y>72</y>
+      <w>279</w>
+      <h>324</h>
+    </coordinates>
+    <panel_attributes>bg=orange
+Task Runers
+--
+- Gulp 
+- Grunt
+--
+                    Package managers
+--
+- NPM : Node Package Manager.
+- Bower.
+- Ruby Gems.
+- RequireJS
+- Jam
+- Browserify
+- Mantri
+- Volo
+- Ender
+- pip
+- composer
+- Yarn.
+--
+                              CVS
+--
+- Git
+- Subversion.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>27</x>
+      <y>819</y>
+      <w>909</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Author: By Dennis Bonilla R
+bg=gray</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>27</x>
+      <y>864</y>
+      <w>432</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>** Diagram is subject to changes.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>324</y>
+      <w>234</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>--
+- FOUNDATION / BOOTSTRAP
+- MATERIALIZE / SKELETON
+- YAML 4 / TUTUK / GUMBY
+- KUBE / GROUNDWORK
+- SASS / LESS / PostCSS.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>342</y>
+      <w>234</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>--
+- Hibernate / Spring MVC
+- Struts 2 / JSF / Wicket
+- Stripes / Tapestry / RIFE
+- SEAM / GWT(Gooble Web Toolkit)
+- OpenXava.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>180</y>
+      <w>234</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>--
+- JADE / MUSTACHE.JS / DUST.JS
+- NUNJUCKS / EJS / JEKYLL</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>180</y>
+      <w>234</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>--
+- LARAVEL / SYMPHONY
+- CodeIgniter / Yii2 / Phalcon 
+- CakePHP / Zend Framework / Slim
+- Fuel PHP / PHPixie</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>513</y>
+      <w>234</w>
+      <h>297</h>
+    </coordinates>
+    <panel_attributes>--
+- MOBSERVABLE / OMNISCIENT
+- REACTIVE.JS / MERCURY
+- WebRx / Deku / Riot.js / Mithril
+- Vue.js / Angular.js / JQuery
+- React js / SOCKET / POLYMER
+- NODE.JS / METEOR / D3.JS
+- EMBER.JS / AURELIA
+- KNOCKOUT.JS / KEYSTONE
+- BACKBONE.JS / Stapes.js
+- JQuery UI / GreenSock.js</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>522</y>
+      <w>234</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>--
+- .NET Framework 4.7.2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>144</y>
+      <w>180</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>HTML Frameworks
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>288</y>
+      <w>180</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>CSS Frameworks
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>477</y>
+      <w>180</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>javaScript Frameworks
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>441</x>
+      <y>144</y>
+      <w>180</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>PHP Frameworks
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>441</x>
+      <y>306</y>
+      <w>180</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>JSP Frameworks
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>441</x>
+      <y>486</y>
+      <w>180</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>ASP.NET Frameworks
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>576</y>
+      <w>234</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>DATABASES.
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>360</x>
+      <y>90</y>
+      <w>72</w>
+      <h>522</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>60.0;560.0;10.0;560.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>414</x>
+      <y>612</y>
+      <w>234</w>
+      <h>198</h>
+    </coordinates>
+    <panel_attributes>Relational 
+--
+- MySQL / Oracle / PostgresSQL
+- DB2 / MariaDB / Sybase
+--
+              No SQL DataBases.
+--
+- MondoDB / Redis / Couch DB 
+- REVENDB / MemcacheDB / Riak
+- Neo4j / HBASE / Perst
+- HyperGraphDB / Cassandra
+- Voldemort / Terrastore / NeoDatis
+- MyOODB / OrientDB / InfoGrid
+- Db4objects</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
